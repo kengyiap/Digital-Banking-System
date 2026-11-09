@@ -1,0 +1,19 @@
+# NetBeans / Java generated files
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
+*.log
+
+# Generated banking test data (may contain credentials and personal details)
+/accounts.csv
+/customers.csv
+/transactions.csv
+/system_state.csv
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
